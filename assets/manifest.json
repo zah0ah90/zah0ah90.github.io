@@ -1,0 +1,45 @@
+{
+ "name": "Portofolio Hamzah",
+ "short_name": "Portofolio_Hamzah",
+ "description": "Portofolio Hamzah Abdillah zah0ah zah0ah@gmail.com",
+ "icons": [
+  {
+   "src": "favpng/android-icon-36x36.png",
+   "sizes": "36x36",
+   "type": "image/png",
+   "density": "0.75"
+  },
+  {
+   "src": "favpng/android-icon-48x48.png",
+   "sizes": "48x48",
+   "type": "image/png",
+   "density": "1.0"
+  },
+  {
+   "src": "favpng/android-icon-72x72.png",
+   "sizes": "72x72",
+   "type": "image/png",
+   "density": "1.5"
+  },
+  {
+   "src": "favpng/android-icon-96x96.png",
+   "sizes": "96x96",
+   "type": "image/png",
+   "density": "2.0"
+  },
+  {
+   "src": "favpng/android-icon-144x144.png",
+   "sizes": "144x144",
+   "type": "image/png",
+   "density": "3.0"
+  },
+  {
+   "src": "favpng/android-icon-192x192.png",
+   "start_url": "zah0ah90.github.io",
+   "display": "fullscreen",
+   "theme_color": "#007bff",
+   "type": "image/png",
+   "density": "4.0"
+  }
+ ]
+}
